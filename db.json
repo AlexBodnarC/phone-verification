@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "first_name": "testName",
+      "last_name": "testLastName",
+      "position": "testPosition",
+      "phone": "testPhone"
+    }
+  ]
+}
